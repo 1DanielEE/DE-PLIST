@@ -1,5 +1,5 @@
 # DE-PLIST
-DanielE Polise List for QBCore 
+DanielE Police List for QBCore 
 
 Languages:
 HTML, CSS, JS, Lua.
